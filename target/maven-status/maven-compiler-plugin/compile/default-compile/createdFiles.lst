@@ -1,0 +1,6 @@
+modelo\Factura.class
+dao\FacturaDAO.class
+vista\FrmFacturas.class
+vista\FrmPrincipal$1.class
+modelo\DetalleFactura.class
+vista\FrmPrincipal.class
