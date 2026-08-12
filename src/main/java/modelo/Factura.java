@@ -38,5 +38,5 @@ public class Factura {
     public String getNumeroFactura() { return numeroFactura; }
     public String getCliente() { return cliente; }
     public String getFecha() { return fecha; }
-    public List<DetalleFactura> getDetalles() { return detalles; } //rigo hueco
+    public List<DetalleFactura> getDetalles() { return detalles; } 
 }
