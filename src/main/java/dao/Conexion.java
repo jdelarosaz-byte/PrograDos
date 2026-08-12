@@ -27,6 +27,6 @@ public class Conexion {
         } catch (SQLException e) {
             System.err.println("Error al conectar a la Base de Datos - " + e.getMessage());
         }
-        return con;
+        return con; //hola
     }
 }
