@@ -22,7 +22,7 @@ public class Empleado extends Persona {
     public void setCodigoEmpleado(String codigoEmpleado) { this.codigoEmpleado = codigoEmpleado; }
     public String getPuesto() { return puesto; }
     public void setPuesto(String puesto) { this.puesto = puesto; }
-
+//prueba
     public String mostrarInformacion() {
         return "Empleado: " + nombre + " [" + codigoEmpleado + "] - " + puesto;
     }
